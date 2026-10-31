@@ -8,7 +8,6 @@ int main()
 	std::cout <<"*********** Calculator ***********\n";
 	do {
 
-
 		std::cout << "Enter either (+ - * /): ";
 		std::cin >> op;
 
@@ -43,9 +42,8 @@ int main()
 		std::cout << "Do you want to calculate again? (y/n): ";
 		std::cin >> choice;
 	} while (choice == 'y' || choice == 'Y');
-	std::cout << "\n**********************************\n";
 	
-		
-    
+	std::cout << "\n**********************************\n";
+	  
     return 0;
 }
