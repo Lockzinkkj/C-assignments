@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kevyn\\source\\repos\\C-assignments\\Calculator\\Calculator\\",
+  "WorkspaceRootPath": "C:\\Users\\kevyn\\source\\repos\\C-assignments\\Calculator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8B192027-A54E-4EA5-9295-50B1205617F3}|Calculator\\Calculator.vcxproj|C:\\Users\\kevyn\\source\\repos\\C-assignments\\Calculator\\Calculator\\Calculator\\Calculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8B192027-A54E-4EA5-9295-50B1205617F3}|Calculator\\Calculator.vcxproj|solutionrelative:Calculator\\Calculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kevyn\\source\\repos\\C-assignments\\Calculator\\C\u002B\u002B\\Calculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:C\u002B\u002B\\Calculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Calculator.cpp",
-              "DocumentMoniker": "C:\\Users\\kevyn\\source\\repos\\C-assignments\\Calculator\\Calculator\\Calculator\\Calculator.cpp",
-              "RelativeDocumentMoniker": "Calculator\\Calculator.cpp",
-              "ToolTip": "C:\\Users\\kevyn\\source\\repos\\C-assignments\\Calculator\\Calculator\\Calculator\\Calculator.cpp",
-              "RelativeToolTip": "Calculator\\Calculator.cpp",
+              "DocumentMoniker": "C:\\Users\\kevyn\\source\\repos\\C-assignments\\Calculator\\C\u002B\u002B\\Calculator.cpp",
+              "RelativeDocumentMoniker": "C\u002B\u002B\\Calculator.cpp",
+              "ToolTip": "C:\\Users\\kevyn\\source\\repos\\C-assignments\\Calculator\\C\u002B\u002B\\Calculator.cpp",
+              "RelativeToolTip": "C\u002B\u002B\\Calculator.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-10-31T04:28:38.233Z",
+              "WhenOpened": "2026-10-31T04:31:39.201Z",
               "EditorCaption": ""
             }
           ]
